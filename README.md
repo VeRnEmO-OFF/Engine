@@ -100,7 +100,7 @@ set_pos('player', (100, 100))
 while True:
     if get_var(SESSION_PATH, "change_scene_to") != "None":
         break
-  smooth_set_pos(player, go_to_mouse_x(), go_to_mouse_y())
+  smooth_set_pos('player', go_to_mouse_x(), go_to_mouse_y())
 ```
 
 Перспективы развития:
