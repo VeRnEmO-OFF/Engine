@@ -1,0 +1,10 @@
+{
+    "obj_type": "scene",
+    "scene_name":  "Игра",
+    "description": ["Сцена игры ран & ган"],
+    "screen_conf": {
+        "mode": "window",
+        "resolutionX": 1400,
+        "resolutionY": 600
+    }
+}

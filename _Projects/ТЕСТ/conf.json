@@ -1,0 +1,11 @@
+{
+    "obj_type": "project",
+    "start_scene":"Игра",
+    "description": ["Бегай и стреляй из разных", "оружий","шутер дутер"],
+    "screen_conf": {
+        "mode": "window",
+        "resolutionX": 600,
+        "resolutionY": 600
+    },
+    "resources_path":"Resources"
+}
